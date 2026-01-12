@@ -1,1 +1,2 @@
-THis is the photography page i made using basic HTML CSS
+THis is the photography page i made using Frontend Web Development
+
